@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<AutomapFile>
+    <PlugID PlugID="722721511" PlugID3="1444606871" PlugID2="121931358" PlugID1="1500714846" />
+    <DeviceID DeviceID="-1215975765" DeviceID3="-1866063922" DeviceID2="1279478674" DeviceID1="2136172004" />
+    <Type Type="0" />
+    <BrowserHint Value="3" />
+    <Group name="Controls">
+        <Group name="Page 1 Encoders">
+            <Param name="CC# 12" shortName="CC# 12" id="12" intStep="1" intMax="127" intMin="0" high="127" low="0" step="1.000000" />
+            <Param name="CC# 13" shortName="CC# 13" id="13" intStep="1" intMax="127" intMin="0" high="127" low="0" step="1.000000" />
+            <Param name="CC# 14" shortName="CC# 14" id="14" intStep="1" intMax="127" intMin="0" high="127" low="0" step="1.000000" />
+            <Param name="CC# 15" shortName="CC# 15" id="15" intStep="1" intMax="127" intMin="0" high="127" low="0" step="1.000000" />
+            <Param name="CC# 16" shortName="CC# 16" id="16" intStep="1" intMax="127" intMin="0" high="127" low="0" step="1.000000" />
+            <Param name="CC# 17" shortName="CC# 17" id="17" intStep="1" intMax="127" intMin="0" high="127" low="0" step="1.000000" />
+            <Param name="CC# 18" shortName="CC# 18" id="18" intStep="1" intMax="127" intMin="0" high="127" low="0" step="1.000000" />
+            <Param name="CC# 19" shortName="CC# 19" id="19" intStep="1" intMax="127" intMin="0" high="127" low="0" step="1.000000" />
+        </Group>
+        <Group name="Page 1 Pots">
+            <Param name="CC# 21" shortName="CC# 21" id="21" intStep="0" intMax="127" intMin="0" high="127" low="127" step="0.000000" />
+            <Param name="CC# 22" shortName="CC# 22" id="22" intStep="0" intMax="127" intMin="0" high="127" low="127" step="0.000000" />
+            <Param name="CC# 23" shortName="CC# 23" id="23" intStep="0" intMax="127" intMin="0" high="127" low="127" step="0.000000" />
+            <Param name="CC# 24" shortName="CC# 24" id="24" intStep="0" intMax="127" intMin="0" high="127" low="127" step="0.000000" />
+            <Param name="CC# 25" shortName="ODUB" id="25" intStep="0" intMax="127" intMin="0" high="127" low="127" step="0.000000" />
+            <Param name="CC# 26" shortName="REC" id="26" intStep="0" intMax="127" intMin="0" high="127" low="127" step="0.000000" />
+            <Param name="CC# 27" shortName="STOP" id="27" intStep="0" intMax="127" intMin="0" high="127" low="127" step="0.000000" />
+            <Param name="CC# 28" shortName="PLAY" id="28" intStep="1" intMax="127" intMin="0" high="127" low="127" step="1.000000" />
+        </Group>
+        <Group name="Page 1 XFader">
+            <Param name="CC# 20" shortName="CC# 20" id="20" intStep="1" intMax="127" intMin="0" high="127" low="0" step="1.000000" />
+        </Group>
+        <Group name="Page 1 Sliders">
+            <Param name="CC# 29" shortName="CC# 29" id="29" intStep="1" intMax="127" intMin="0" high="127" low="0" step="1.000000" />
+            <Param name="CC# 30" shortName="CC# 30" id="30" intStep="1" intMax="127" intMin="0" high="127" low="0" step="1.000000" />
+            <Param name="CC# 31" shortName="CC# 31" id="31" intStep="1" intMax="127" intMin="0" high="127" low="0" step="1.000000" />
+            <Param name="CC# 32" shortName="CC# 32" id="32" intStep="1" intMax="127" intMin="0" high="127" low="0" step="1.000000" />
+            <Param name="CC# 33" shortName="CC# 33" id="33" intStep="1" intMax="127" intMin="0" high="127" low="0" step="1.000000" />
+            <Param name="CC# 34" shortName="CC# 34" id="34" intStep="1" intMax="127" intMin="0" high="127" low="0" step="1.000000" />
+            <Param name="CC# 35" shortName="CC# 35" id="35" intStep="1" intMax="127" intMin="0" high="127" low="0" step="1.000000" />
+            <Param name="CC# 36" shortName="CC# 36" id="36" intStep="1" intMax="127" intMin="0" high="127" low="0" step="1.000000" />
+        </Group>
+        <Group name="Page 1 Encoder Buttons">
+            <Param name="CC# 37" shortName="CC# 37" id="37" intStep="0" intMax="127" intMin="0" high="127" low="127" step="0.000000" />
+            <Param name="CC# 38" shortName="CC# 38" id="38" intStep="0" intMax="127" intMin="0" high="127" low="127" step="0.000000" />
+            <Param name="CC# 39" shortName="CC# 39" id="39" intStep="0" intMax="127" intMin="0" high="127" low="127" step="0.000000" />
+            <Param name="CC# 40" shortName="CC# 40" id="40" intStep="0" intMax="127" intMin="0" high="127" low="127" step="0.000000" />
+            <Param name="CC# 41" shortName="CC# 41" id="41" intStep="0" intMax="127" intMin="0" high="127" low="127" step="0.000000" />
+            <Param name="CC# 42" shortName="CC# 42" id="42" intStep="0" intMax="127" intMin="0" high="127" low="127" step="0.000000" />
+            <Param name="CC# 43" shortName="CC# 43" id="43" intStep="0" intMax="127" intMin="0" high="127" low="127" step="0.000000" />
+            <Param name="CC# 45" shortName="CC# 45" id="45" intStep="0" intMax="127" intMin="0" high="127" low="127" step="0.000000" />
+        </Group>
+        <Group name="Page 1 XFader">
+            <Param name="CC# 46" shortName="CC# 46" id="46" intStep="1" intMax="127" intMin="0" high="127" low="0" step="1.000000" />
+        </Group>
+        <Group name="Page 1 Pot Buttons">
+            <Param />
+            <Param />
+            <Param />
+            <Param />
+            <Param />
+            <Param />
+            <Param />
+            <Param />
+        </Group>
+        <Group name="Page 1 Slider Buttons">
+            <Param name="Unprintable " shortName="LEFT" id="-1" intStep="1" intMax="100" intMin="0" high="100" low="0" step="1.000000">
+                <KeyEvent code="123" character="63234" modifiers="10486016" scancode="-67" />
+            </Param>
+            <Param name="Unprintable " shortName="DOWN" id="-1" intStep="100" intMax="100" intMin="0" high="100" low="0" step="100.000000">
+                <KeyEvent code="125" character="63233" modifiers="10486016" scancode="-67" />
+            </Param>
+            <Param name="Unprintable " shortName="UP" id="-1" intStep="1" intMax="100" intMin="0" high="100" low="0" step="1.000000">
+                <KeyEvent code="126" character="63232" modifiers="10486016" scancode="-67" />
+            </Param>
+            <Param name="Unprintable " shortName="RIGHT" id="-1" intStep="1" intMax="100" intMin="0" high="100" low="0" step="1.000000">
+                <KeyEvent code="124" character="63235" modifiers="10486016" scancode="-67" />
+            </Param>
+            <Param name="Apple+f Unprintable Unprintable " shortName="BROWSER" id="-1" intStep="1" intMax="100" intMin="0" high="100" low="0" step="1.000000">
+                <KeyEvent code="3" character="102" modifiers="1048840" scancode="-67" />
+                <KeyEvent code="125" character="63233" modifiers="10486016" scancode="-67" />
+                <KeyEvent code="123" character="63234" modifiers="10486016" scancode="-67" />
+                <KeyEvent code="126" character="63232" modifiers="10486016" scancode="-67" />
+                <KeyEvent code="126" character="63232" modifiers="10486016" scancode="-67" />
+                <KeyEvent code="126" character="63232" modifiers="10486016" scancode="-67" />
+                <KeyEvent code="126" character="63232" modifiers="10486016" scancode="-67" />
+                <KeyEvent code="126" character="63232" modifiers="10486016" scancode="-67" />
+                <KeyEvent code="126" character="63232" modifiers="10486016" scancode="-67" />
+            </Param>
+            <Param name="Apple+Shift+T " shortName="Midi Track" id="-1" intStep="1" intMax="100" intMin="0" high="100" low="0" step="1.000000">
+                <KeyEvent code="17" character="84" modifiers="1179914" scancode="-67" />
+            </Param>
+            <Param name="Apple+t " shortName="AudioTrack" id="-1" intStep="1" intMax="100" intMin="0" high="100" low="0" step="1.000000">
+                <KeyEvent code="17" character="116" modifiers="1048840" scancode="-67" />
+            </Param>
+            <Param name="Return " shortName="Enter" id="-1" intStep="1" intMax="100" intMin="0" high="100" low="0" step="1.000000">
+                <KeyEvent code="36" character="13" modifiers="256" scancode="-67" />
+            </Param>
+        </Group>
+        <Group name="Page 1 XFader">
+            <Param />
+        </Group>
+        <Group name="Page 2 Encoders">
+            <Param />
+            <Param />
+            <Param />
+            <Param />
+            <Param />
+            <Param />
+            <Param />
+            <Param />
+        </Group>
+        <Group name="Page 2 Pots">
+            <Param />
+            <Param />
+            <Param />
+            <Param />
+            <Param />
+            <Param />
+            <Param name="Apple+z " shortName="Undo" id="-1" intStep="100" intMax="100" intMin="0" high="100" low="0" step="100.000000">
+                <KeyEvent code="6" character="122" modifiers="1048840" scancode="-67" />
+            </Param>
+            <Param name="Del " shortName="Del " id="-1" intStep="100" intMax="100" intMin="0" high="100" low="0" step="100.000000">
+                <KeyEvent code="51" character="127" modifiers="256" scancode="-67" />
+            </Param>
+        </Group>
+        <Group name="Page 2 XFader">
+            <Param />
+        </Group>
+    </Group>
+</AutomapFile>

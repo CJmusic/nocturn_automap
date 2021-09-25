@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<AutomapFile>
+    <PlugID PlugID="722721511" PlugID3="1444606871" PlugID2="1141333638" PlugID1="1578595161" />
+    <DeviceID DeviceID="-1215975765" DeviceID3="-1866063922" DeviceID2="1129091659" DeviceID1="-463121537" />
+    <Type Type="1" />
+    <BrowserHint Value="0" />
+    <Group name="Controls">
+        <Group name="Page 1 Encoders">
+            <Param name="CC# 0" shortName="Macro 1" id="0" intStep="1" intMax="127" intMin="0" high="127" low="0" step="1.000000" />
+            <Param name="CC# 4" shortName="Macro 2" id="4" intStep="1" intMax="127" intMin="0" high="127" low="0" step="1.000000" />
+            <Param name="CC# 1" shortName="Macro 3" id="1" intStep="1" intMax="127" intMin="0" high="127" low="0" step="1.000000" />
+            <Param name="CC# 5" shortName="Macro 4" id="5" intStep="1" intMax="127" intMin="0" high="127" low="0" step="1.000000" />
+            <Param name="CC# 6" shortName="Macro 5" id="6" intStep="1" intMax="127" intMin="0" high="127" low="0" step="1.000000" />
+            <Param name="CC# 2" shortName="Macro 6" id="2" intStep="1" intMax="127" intMin="0" high="127" low="0" step="1.000000" />
+            <Param name="CC# 7" shortName="Macro 7" id="7" intStep="1" intMax="127" intMin="0" high="127" low="0" step="1.000000" />
+            <Param name="CC# 3" shortName="Macro 8" id="3" intStep="1" intMax="127" intMin="0" high="127" low="0" step="1.000000" />
+        </Group>
+        <Group name="Page 1 Pots">
+            <Param name="CC# 74" shortName="CC# 74" id="74" intStep="0" intMax="127" intMin="0" high="127" low="0" step="0.000000" />
+            <Param name="CC# 75" shortName="CC# 75" id="75" intStep="0" intMax="127" intMin="0" high="127" low="0" step="0.000000" />
+            <Param name="CC# 76" shortName="Prev Device" id="76" intStep="0" intMax="127" intMin="0" high="127" low="0" step="0.000000" />
+            <Param name="CC# 77" shortName="Next Device" id="77" intStep="0" intMax="127" intMin="0" high="127" low="0" step="0.000000" />
+            <Param name="CC# 80" shortName="Bank Down" id="80" intStep="0" intMax="127" intMin="0" high="127" low="0" step="0.000000" />
+            <Param name="CC# 81" shortName="Bank Up" id="81" intStep="0" intMax="127" intMin="0" high="127" low="0" step="0.000000" />
+            <Param name="CC# 78" shortName="Lock" id="78" intStep="0" intMax="127" intMin="0" high="127" low="0" step="0.000000" />
+            <Param name="CC# 79" shortName="On/Off" id="79" intStep="0" intMax="127" intMin="0" high="127" low="0" step="0.000000" />
+        </Group>
+        <Group name="Page 1 XFader">
+            <Param />
+        </Group>
+    </Group>
+</AutomapFile>
